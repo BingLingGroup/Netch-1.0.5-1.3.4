@@ -99,7 +99,7 @@ namespace Netch.Controllers
         {
             if (!String.IsNullOrWhiteSpace(e.Data))
             {
-                File.AppendAllText("logging\\shadowsocks.log", $"{e.Data}\r\n");
+                // File.AppendAllText("logging\\shadowsocks.log", $"{e.Data}\r\n");
 
                 if (State == Models.State.Starting)
                 {

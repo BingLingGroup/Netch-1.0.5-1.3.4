@@ -8,6 +8,20 @@
 
 ### [未发布]
 
+### [1.3.4] - 2019-10-29
+
+#### 添加(1.3.4)
+
+- 添加订阅界面整行选中支持 by @BingLingGroup 
+- 添加更好的 HiDPI 支持 by @TheCGDF 
+
+#### 修改(1.3.4)
+
+- 修复翻译问题 by @BingLingGroup 
+- 兼容老版本 `bin/Redirector.exe` by @BingLingGroup 
+- 更新驱动文件和 `bin/Redirector.exe` by @ConnectionRefused 
+- 将赞助商从 YoYu 切换至 N3RO by @ConnectionRefused 
+
 ### [1.3.3] - 2019-10-08
 
 #### 添加(1.3.3)
@@ -256,7 +270,8 @@
 - 添加自带模式
 - 添加自带语言
 
-[未发布]: https://github.com/NetchX/Netch/compare/1.3.3...HEAD
+[未发布]: https://github.com/NetchX/Netch/compare/1.3.4...HEAD
+[1.3.4]: https://github.com/NetchX/Netch/compare/1.3.3...1.3.4
 [1.3.3]: https://github.com/NetchX/Netch/compare/1.3.2...1.3.3
 [1.3.2]: https://github.com/NetchX/Netch/compare/1.3.1...1.3.2
 [1.3.1]: https://github.com/NetchX/Netch/compare/1.3.0...1.3.1

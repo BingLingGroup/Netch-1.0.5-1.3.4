@@ -1,6 +1,6 @@
 ## Changelog
 
-[简体中文](docs/CHANGELOG.zh-Hans.md)
+[简体中文](docs/CHANGELOG.zh-CN.md)
 
 All notable changes to this project will be documented in this file.
 
@@ -8,6 +8,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### [Unreleased]
+
+### [1.3.4] - 2019-10-29
+
+#### Added(1.3.4)
+
+- Add FullRowSelect support for SubscribeForm by @BingLingGroup 
+- Add better HiDPI support by @TheCGDF 
+
+#### Changed(1.3.4)
+
+- Fix translation issues by @BingLingGroup 
+- Fix compatibility with old version `bin/Redirector.exe` by @BingLingGroup 
+- Update `bin/Redirector.exe` and the upstream Netfilter SDK driver by @ConnectionRefused 
+- Change the sponsorship to N3RO by @ConnectionRefused 
 
 ### [1.3.3] - 2019-10-08
 
@@ -257,7 +271,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add built-in modes.
 - Add built-in language support.
 
-[Unreleased]: https://github.com/NetchX/Netch/compare/1.3.3...HEAD
+[未发布]: https://github.com/NetchX/Netch/compare/1.3.4...HEAD
+[1.3.4]: https://github.com/NetchX/Netch/compare/1.3.3...1.3.4
 [1.3.3]: https://github.com/NetchX/Netch/compare/1.3.2...1.3.3
 [1.3.2]: https://github.com/NetchX/Netch/compare/1.3.1...1.3.2
 [1.3.1]: https://github.com/NetchX/Netch/compare/1.3.0...1.3.1
